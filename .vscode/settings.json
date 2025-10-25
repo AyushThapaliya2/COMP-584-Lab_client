@@ -1,0 +1,5 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "editor.suggest.preview": true
+}
